@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c13a32c-642b-4091-befe-978360af9c9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -311,7 +311,8 @@
       <workItem from="1589561814845" duration="5038000" />
       <workItem from="1589576060935" duration="2432000" />
       <workItem from="1589579321548" duration="1179000" />
-      <workItem from="1589634297354" duration="661000" />
+      <workItem from="1589634297354" duration="3092000" />
+      <workItem from="1590051673547" duration="1016000" />
     </task>
     <servers />
   </component>
