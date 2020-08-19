@@ -2,7 +2,7 @@ public/images
 public/media
 ###> symfony/framework-bundle ###
 /.env.local
-/.env.local.php
+/.env.local
 /.env.*.local
 /public/bundles/
 /var/
